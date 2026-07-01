@@ -281,10 +281,6 @@ This project is intended for educational and research purposes.
 
 B.Tech Computer Science & Engineering (AI & ML)
 
-GitHub: https://github.com/shreyasidey83
-
-LinkedIn: *(Add your LinkedIn profile here)*
-
 ---
 
 ⭐ If you found this project helpful, consider giving it a **Star** on GitHub!
